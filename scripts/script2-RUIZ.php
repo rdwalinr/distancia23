@@ -5,7 +5,7 @@
  * Este script contiene la clase "Calculadora" que realiza operaciones de multiplicación y división.
  * Fue creado por Rubén Ruiz Mejias.
  * @copyrigth 2023
- * @version 1.0.1
+ * @version 1.0.0
  * @see Calculadora
  *
  */
