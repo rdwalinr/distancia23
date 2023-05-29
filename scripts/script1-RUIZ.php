@@ -2,7 +2,7 @@
 /**
 * Esto es un ejemplo de documentación de PHP
 * @author Rubén Ruiz Mejias
-* @version 1.1.1
+* @version 1.0.1
 * @copyright 2023
 * @link https://fernando-gaitan.com.ar/aprendiendo-php-parte10-funciones/
 */
